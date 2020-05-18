@@ -3,7 +3,8 @@ source     :   Saylor.org
 
 UNIT 1	NETWORKING FUNDAMENTALS
 	
-	This unit will introduce the basic concept computer network and arm with tools that will be needed to work through the more technical aspect.
+	This unit was able to introduce the basic concept computer network and arm with tools that 
+	will be needed to work through the more technical aspect.
 	* Able to demonstrate and understand of the evolution of internet and computer networks
 	* Able to define the use of layers in networking
 	* Able to explain the role of the networkrequest for comments[RFC]
