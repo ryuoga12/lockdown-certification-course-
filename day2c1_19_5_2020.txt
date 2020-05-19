@@ -1,0 +1,11 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+UNIT 2	Networking Fundamentals: Protocols
+
+	
+	*differentiate between the protocols in the TCP/IP model
+	*list and describe each of the layers in the OSI model and the TCP/IP model
+
+Date:19/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
