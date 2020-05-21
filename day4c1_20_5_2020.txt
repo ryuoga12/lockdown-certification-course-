@@ -1,0 +1,13 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+UNIT 2.3	Wide Area Networks
+	In this unit i got to know about WAN.Different kinds of WAN,such as ATM,CABLE,DIAL-UP,DSL.
+
+
+UNIT 2.4	Transmission Media
+	In this unit I got to know about diffrent transmission media,such as linear media,bounded media,and isotropic media.
+
+
+Date:21/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
