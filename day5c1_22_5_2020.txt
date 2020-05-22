@@ -1,0 +1,11 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+UNIT 3.1	THE APPLICATION LAYER
+	This unit successfuly explained 
+	*To classify network application layer protocols
+	*To use the DNS protocol to map hostnames to IP addresses
+	*Compare and contrast SMTP with POP3 protocols
+
+Date:22/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
