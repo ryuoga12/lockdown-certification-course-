@@ -1,0 +1,10 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+UNIT 4	THE TRANSPORT LAYER(TCP/UDP)
+	This unit on completing explained 
+	*To select the correct transport layer protocol, such as TCP and UDP, to transfer data segments
+	*To describe the SCTP and RTP protocols and the applications based on these protocols
+	*To analyze network activity at the transport layer.
+Date:23/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
