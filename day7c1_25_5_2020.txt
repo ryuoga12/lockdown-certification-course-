@@ -1,0 +1,12 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+UNIT 5: The Network Layer
+on successfuly completing this unit it explained
+*To choose the correct network layer protocol to perform packet forwarding
+*To compare and contrast CIDR with subnetting activities within the network layer
+*To describe IP addressing and explain its purpose
+*To define a packet and explain its role in transporting data.
+
+Date:25/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
