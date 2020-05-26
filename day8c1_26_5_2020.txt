@@ -1,0 +1,12 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 6: The Link Layer
+on completing this unit I understud 
+*To demonstrate an understanding of the link layer
+*To resolve IP addresses with physical addressing in the link layer;
+*To reduce packet collisions in a network using CSMA; and
+*To define CSMA and describe its use in the link layer.
+
+Date:25/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
