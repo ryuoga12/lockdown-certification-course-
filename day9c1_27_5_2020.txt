@@ -1,0 +1,14 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 7: Multimedia, Security, and Cloud Computation over the Internet
+Completing this unit should take you approximately 13 hours.
+Upon successful completion of this unit, i was  able to
+
+*describe and compare application protocols, such as VoIP and IPTV;
+*use cloud computing;
+*describe challenges and solutions for TCP/IP security;
+
+
+Date:27/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
