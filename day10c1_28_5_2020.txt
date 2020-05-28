@@ -1,0 +1,13 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 7: Multimedia, Security, and Cloud Computation over the Internet
+Completing this unit should take you approximately 13 hours.
+Upon successful completion of this unit, i was  able to
+
+*To improve TCP/IP security by using security protocols;
+*To evaluate remote access and directory services
+
+
+Date:28/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
