@@ -1,0 +1,10 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 7: Multimedia, Security, and Cloud Computation over the Internet
+*To apply fault tolerance techniques to improve network reliability.
+ *The advantages and disadvantages of cloud computing and when it makes sense for companies to move to the cloud.
+
+
+Date:29/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
