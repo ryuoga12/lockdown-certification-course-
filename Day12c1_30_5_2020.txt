@@ -1,0 +1,9 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 7: Multimedia, Security, and Cloud Computation over the Internet
+Upon successful completion of this unit, i was  will be able to
+*To understand the protocols for transmitting multimedia content, such as voice and video, over the Internet, and discusses security, reliability, and fault tolerance issues related to Internet applications
+
+Date:29/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
