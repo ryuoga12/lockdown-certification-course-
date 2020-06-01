@@ -1,0 +1,6 @@
+Course name:   Computer Communication and Networks
+source     :   Saylor.org
+
+Unit 7: Multimedia, Security, and Cloud Computation over the Internet Upon successful completion of this unit, i was  will be able to *Understand network reliability and fault tolorence *LDAP and directory services *Terminal access controller Access-control system plus[TACACS+]
+Date:31/5/2020
+Link:https://learn.saylor.org/course/view.php?id=84
