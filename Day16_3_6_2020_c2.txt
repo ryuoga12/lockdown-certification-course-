@@ -1,0 +1,7 @@
+Course name:   HTML and CSS for Beginners - Build a Website & Launch ONLINE
+source     :  udemy.com
+HTML and CSS course
+Today i finished learning 
+Inline style,internal style,external style,selectors,Id's and classes,linking java script
+Date:3/6/2020
+Link:https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/learn/lecture/2311808#overview
