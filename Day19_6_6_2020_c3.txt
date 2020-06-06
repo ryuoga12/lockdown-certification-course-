@@ -1,0 +1,11 @@
+Course name:   Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch 
+source     :  www.bitdegree.org
+I started new course  with Learn HTML5 and CSS3 to Build a HTML5 Website from Scratch from website bitdegree
+I opted for this course to learn and build a website from scratch 
+Following was thought on todays session
+Links
+*Link basics
+*In-page links
+*Links Styles
+*Navigation Menus
+Date:6/6/2020
