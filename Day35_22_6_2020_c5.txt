@@ -1,0 +1,16 @@
+Course name:   PyQt5 - Create an AMAZING Calculator
+source     :  www.bitdegree.org
+I have opted my Online Certification Course In BitDegree. The course which i have opted is  PyQt5 - Create an AMAZING Calculator.
+The Mpdel View Controller MVC Pattern
+Controllong the Skeleton
+Completing GUI
+Creating controlloer
+Implementing the model
+completing controller
+
+
+
+
+
+
+Date:22/6/2020
