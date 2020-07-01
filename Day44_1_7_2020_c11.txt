@@ -1,0 +1,4 @@
+Course name:   Absolute Guide: Linux Tutorial
+source     :  www.bitdegree.org
+I have opted my Online Certification Course In BitDegree. This course introduces configure mysql master slave republication on ubuntu .
+ Date:1/7/2020
