@@ -1,0 +1,3 @@
+Course name:   Chrome DevTools Introduction Web Developers Guide
+source     Bitdegree
+I have opted my Online Certification Course In bitdegree . The course which i have opted is  Chrome DevTools Introduction Web Developers Guide. The following was explained on Chrome DevTools and How to use them,How to open options and setup devtools,to use elements panel in chrome Devtools.Date:9/7/2020
