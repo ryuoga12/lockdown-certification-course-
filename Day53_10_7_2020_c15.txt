@@ -1,0 +1,4 @@
+Course name:   Chrome DevTools Introduction Web Developers Guide
+source     Bitdegree
+I have opted my Online Certification Course In bitdegree . The course which i have opted is  Chrome DevTools Introduction Web Developers Guide. The following was explained, Devtools game and challenge,how to use chrome Devtools to debug javascript,to run code in chrome devtools,to save files using chrome dev tools.
+Date:10/7/2020
