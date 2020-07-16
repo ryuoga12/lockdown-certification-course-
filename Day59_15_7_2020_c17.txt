@@ -1,0 +1,4 @@
+Course name:   build a quiz app with html css-and javascript
+source     udemy
+I have opted my Online Certification Course In bitdegree . The course which i have opted is  build a quiz app with html css-and javascript. The following was explained on todays session, loading and displaying,Fetching api to load questions from local storage,from JSON file,creating spinner loader and closing
+Date:16/7/2020
